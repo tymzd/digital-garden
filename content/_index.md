@@ -4,7 +4,7 @@ title: Tim's Dev Wiki
 
 Hi! I'm Tim, a software engineer at Google and computer science graduate from the University of New South Wales.
 
-Welcome to my personal developer wiki. Learning is chaotic — this is my attempt to establish some semblance of order in my haphazard efforts to piece together a better understanding of the world. This wiki contains things I learn about software engineering, science, investing, economics, and a bunch of other random areas of study.
+Welcome to my personal developer wiki. Learning is chaotic — this is my attempt to establish some semblance of order. This wiki contains things I learn about software engineering, science, and a bunch of other random areas of study.
 
 🌲 These are my [evergreen notes](https://notes.andymatuschak.org/Evergreen_notes). They're a constant work in progress — I'm pruning, editing and adding new notes as I piece together a better understanding of software engineering as well as other areas of study that interest me.
 
@@ -48,4 +48,4 @@ Welcome to my personal developer wiki. Learning is chaotic — this is my attemp
 	- [[Knowledge/Engineering/Architecture/Monolith|Monoliths]]
 - **Operating systems**
 	- [[Knowledge/Engineering/Operating Systems/User Space and Kernel Space|Userland & Kernel Space]]
-
+... and more!
